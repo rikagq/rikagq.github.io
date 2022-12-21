@@ -1,0 +1,24 @@
+{
+  "name": "rikagq.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rikagq/rikagq.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rikagq/rikagq.github.io/issues"
+  },
+  "homepage": "https://github.com/rikagq/rikagq.github.io#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "gh-pages": "^4.0.0",
+    "youtube-audio-stream": "^0.3.61"
+  }
+}
