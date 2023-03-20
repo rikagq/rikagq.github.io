@@ -1,0 +1,13 @@
+h1 {
+    font-size: 200px;
+    padding-top: 10%;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+    body {
+        background: #1B262C;
+        color: #ECF2FF;
+    }
+}
